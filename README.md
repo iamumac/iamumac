@@ -33,6 +33,4 @@ Projects coming soon — currently learning Playwright + TypeScript · Python ·
 
 ## 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamit%20Yumak-blue)](https://linkedin.com/in/hamityumak)
-
 📍 Toronto, Canada · Open to hybrid/remote roles · No sponsorship required
